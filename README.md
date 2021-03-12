@@ -1,4 +1,4 @@
-# autokc-win
+# autokc-win anupdate will be sent say tuned
 ## How to download:
 Press the code button then extract the files from the autokc-win_master directory
 ## How to use:
